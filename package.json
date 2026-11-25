@@ -1,0 +1,1 @@
+{"description":"make.fun Worst Superpower entry: a program that writes one useless-superpower line to /output/entry.txt.","license":"MIT","main":"main.ts","name":"worst-superpower","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
